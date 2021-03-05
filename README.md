@@ -1,1 +1,1 @@
-# Batch-Data-Analytcis
+# Batch-Data-Analytics
